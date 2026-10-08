@@ -968,7 +968,6 @@ full_treble_only(`
     -mediametrics_service
     -mediaserver_service
     -nfc_service
-    -omapi_service
     -radio_service
     -secure_element_service
     -virtual_touchpad_service
